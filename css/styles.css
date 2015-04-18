@@ -6,8 +6,12 @@
 /* Tags */
 html {font-size:62.5%}
 body {background-attachment: fixed;background-image:url('../img/bg.jpg');background-repeat:no-repeat;background-size:cover;font-family: 'Muli', sans-serif;}
-h1,h2,h3,h4,h5,h6,p {color:#fff;text-align: center}
+h1,h2,h3,h4,h5,h6,p,nav {color:#fff;text-align: center}
 h1 {font-size:3.2em;}
 p {font-size:1.8em;margin:1em 0;}
+nav {font-size:2em,margin:0 auto;}
+a {padding:0.5em;}
+i {color:#FF5700;}
 /* Class */
 .container {background-color:rgba(0, 0, 0, 0.7);-webkit-border-radius: 1.1em;-moz-border-radius: 1.1em;border-radius: 1.1em;margin:15% auto 0;padding:3.5%;width:50%;}
+
