@@ -3,4 +3,4 @@
 * My personal web site on Github.
 */
 
-body {font-family: 'Muli', sans-serif;}
+body {background-attachment: fixed;background-image:url('../img/bg.jpg');background-repeat:no-repeat;background-size:cover;font-family: 'Muli', sans-serif;}
